@@ -3,7 +3,7 @@
 * Created a portable system to check body temperature and detect Face Mask.
 * The system can be implemented in places where people are gathering in large number and people need to wear facemasks as it will help in reducing any chance of spreading the virus.
 * Person will stand in front of a Camera which will detect if the person is wearing mask or not and an infrared temprature sensor will detect the temperature.
-* If the person is wearing mask and has body temperature under certain threshold (37 C/ 98.6 F) than the gates will be open or else administrator will be informed about the situation using E-mail service. 
+* If the person is wearing mask and has body temperature under certain threshold (37 C/ 98.6 F) the gates will open else, administrator will be informed about the situation using an E-mail service. 
 
 Equipments needed:
 - Raspberry pi (any model 3)
